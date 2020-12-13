@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-bookmarks',
+  selector: 'jv-bookmarks',
   templateUrl: './bookmarks.page.html',
   styleUrls: ['./bookmarks.page.scss']
 })

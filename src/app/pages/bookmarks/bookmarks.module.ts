@@ -1,13 +1,14 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+
 import { BookmarksPage } from './bookmarks.page';
 
-
-
 @NgModule({
-  declarations: [BookmarksPage],
   imports: [
-    CommonModule
-  ]
+    CommonModule,
+  ],
+  declarations: [
+    BookmarksPage,
+  ],
 })
 export class BookmarksModule { }
