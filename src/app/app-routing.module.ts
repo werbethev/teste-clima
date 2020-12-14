@@ -1,4 +1,4 @@
-import { BookmarksPage } from './pages/bookmarks/bookmarks.page';
+import { BookmarksPage } from './pages/bookmarks/containers/bookmarks/bookmarks.page';
 import { HomePage } from './pages/home/containers/home.page';
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
